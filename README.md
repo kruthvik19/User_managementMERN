@@ -38,8 +38,9 @@ To run this project, you need to have the following installed on your machine:
     cd user-management-system
    ```
 3.Install dependencies:
-    ```bash
-     npm install
+   ```bash
+    npm install
+   ```
     
 
 ### Running Application
