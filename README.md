@@ -29,17 +29,17 @@ To run this project, you need to have the following installed on your machine:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/user-management-system.git
-   ```bash
+   
    
    
 2.Navigate to the project directory:
    ```bash
     cd user-management-system
-   ```bash
+   
 3.Install dependencies:
     ```bash
    npm install
-   ```
+
 
 ### Running Application
 To start the application, run:
