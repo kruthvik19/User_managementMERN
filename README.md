@@ -40,7 +40,7 @@ To run this project, you need to have the following installed on your machine:
 3.Install dependencies:
     ```bash
      npm install
-    ```
+    
 
 ### Running Application
 To start the application, run:
@@ -48,7 +48,7 @@ node app.js
 Open your browser and go to http://localhost:3000 to see the application in action.
 
 
-Usage
+### Usage
 Add User: Navigate to the "Add User" section to add a new user.
 Edit User: Use the "Edit" button next to a user's name to update their information.
 Update User: After editing the details, click the "Update" button to save the changes.
