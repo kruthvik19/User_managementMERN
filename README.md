@@ -39,7 +39,7 @@ To run this project, you need to have the following installed on your machine:
    ```
 3.Install dependencies:
     ```bash
-   npm install
+     npm install
     ```
 
 ### Running Application
