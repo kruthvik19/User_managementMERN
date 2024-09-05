@@ -1,12 +1,13 @@
 # User Management System
 
-This project is a **User Management System** built using **Node.js** and **EJS templates**. It allows for creating, editing, and managing user information through a simple and intuitive interface.
+This project is a **User Management System** built using **Node.js** and **EJS templates**. It allows for creating, editing, updating, and managing user information through a simple and intuitive interface.
 
 ## Features
 - Add new users
 - Edit existing user information
 - List all users
 - Delete users
+- Updating users
 - Backend validation for form inputs
 
 ## Tech Stack
